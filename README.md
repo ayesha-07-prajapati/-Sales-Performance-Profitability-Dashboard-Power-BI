@@ -21,6 +21,7 @@ This interactive, multi-page **Power BI Dashboard** provides a comprehensive ana
 
 ### 1️⃣ Page 1: Executive Sales & Regional Overview
 <img width="1207" height="691" alt="Screenshot 2026-11-17 145415" src="https://github.com/user-attachments/assets/8d5a5c0d-a147-4036-9549-b509b90dbc5e" />
+
 * **Category Performance:** *Technology* leads in both sales ($0.84M) and profit ($0.15M), followed by *Office Supplies* and *Furniture*.
 * **Regional Distribution:** *West* contributes the highest share of sales at **31.58% ($725.46K)**, followed by *East* at **29.55% ($678.78K)**.
 * **Monthly Sales Trend:** Sales peak during the final quarter, reaching the highest point in **November ($272K)** and **September ($249K)**.
